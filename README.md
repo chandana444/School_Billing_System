@@ -1,1 +1,3 @@
-# School_Billing_System
+# School Billing System
+
+This project is made using C language.
